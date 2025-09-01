@@ -1,0 +1,5 @@
+requests
+mcp
+fastmcp
+PyPDF2
+duckduckgo-search
